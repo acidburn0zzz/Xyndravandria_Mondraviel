@@ -1,0 +1,47 @@
+                                         ---------------------------------
+                                         |   Xyndravandria PHP License   |
+                                         ---------------------------------
+											
+The copyright (c) of the Xyndravandria PHP License (XyndravandriaPHPLicense.txt) is owned by Mauro Di Girolamo <maurodigirolamo@web.de>, its author.
+
+I. Definitions.
+---------------
+"This License" or "this License" means the Xyndravandria PHP License (XyndravandriaPHPLicense.txt).
+"The Project" or "the Project" means the project which is released under the terms of this License. This can, for example, be a program; just source code; or even both a program and its source code.
+"The Files" or "the Files" means all source files which are part of the Project.
+"You" or "you" means a person receiving a copy of the Project.
+
+II. Instruction.
+----------------
+Hereby, you are given permission to use the Project. In what way the Porject can be used depends on its functionality. This could be, for instance, if the Project is a library, using the Project as a part of your own projects or if the Project is a program, executing it.
+Besides, you are allowed to read the Files.
+However, you are in general neither allowed to alter, change or modify one or even more bits of one of the Files, nor to add one or even more bits to one of the Files, nor to delete or remove one or even more bits from one of the Files.
+You are allowed to distribute the Project with the given restrictions and, in addition, without deleting or moving (to another folder) one of the Files and without adding a new file to the Project.
+Every aspect not explicitly allowed through this License is forbidden.
+All rights reserved.
+
+III. Disclaimer of Warranty.
+----------------------------
+THE PROJECT IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either expressed or implied, including, without limitation, any warranities of title, merchantability, fitness for a particular purpose and noninfringement. 
+
+IV. Limitation of Liability.
+----------------------------
+BY NO MEANS SHALL THE AUTHOR AND COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM OR indirect, special, incidental, or consequential DAMAGES OF ANY CHARACTER including, without limitation, damages for lost profits, computer failure or malfunction, work stoppage, loss of goodwill or any and all other commercial damages or losses OR OTHER LIABILITY, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the Project or the use or other dealings in the Project.
+
+V. Waiver.
+----------
+Every aspects of this License can be waived by the copyright holder of the Project.
+
+VI. How to release a project under the terms of the Xyndravandria PHP License (XyndravandriaPHPLicense.txt).
+------------------------------------------------------------------------------------------------------------
+You have to distribute a copy of the Xyndravandria PHP License (XyndravandriaPHPLicense.txt) within the root directory of your project.
+Besides, you have to add this text (as a comment) at the beginning of each file of your project to ensure it to be released under the terms of the Xyndravandria PHP License (XyndravandriaPHPLicense.txt):
+
+=============================================================================================================================================
+|   This file is part of a project released under the terms of the Xyndravandria PHP License (XyndravandriaPHPLicense.txt).                 |
+|                                                                                                                                           |
+|   You should be given a copy of the Xyndravandria PHP License (XyndravandriaPHPLicense.txt) within the same directory as the README.md;   |
+|   if not, you can get a copy at http://Xyndravandria.ohost.de/XyndravandriaPHPLicense.txt .                                               |
+|                                                                                                                                           |
+|   The copyright (c) of this project is owned by <your name here>.                                                                         |
+============================================================================================================================================|
