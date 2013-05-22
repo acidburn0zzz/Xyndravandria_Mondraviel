@@ -18,7 +18,7 @@ All projects:
    Xyndravandria Dyverath
    http://github.com/MauroDiGirolamo/Xyndravandria_Dyverath
    PHP
-   Dyverath is an database access wrapper.
+   Dyverath is a database access wrapper.
    
    Xyndravandria Erozaver
    http://github.com/MauroDiGirolamo/Xyndravandria_Erozaver

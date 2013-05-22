@@ -6,7 +6,7 @@
 |   You should be given a copy of the Xyndravandria PHP License (XyndravandriaPHPLicense.txt) within the same directory as the README.md;   |
 |   if not, you can get a copy at http://Xyndravandria.ohost.de/XyndravandriaPHPLicense.txt .                                               |
 |                                                                                                                                           |
-|   The copyright (c) of this project is owned by <your name here>.                                                                         |
+|   The copyright (c) of this project is owned by Mauro Di Girolamo <maurodigirolamo@.web.de>.                                              |
 ============================================================================================================================================|
 
 
@@ -31,7 +31,7 @@ All projects:
    Xyndravandria Dyverath
    http://github.com/MauroDiGirolamo/Xyndravandria_Dyverath
    PHP
-   Dyverath is an database access wrapper.
+   Dyverath is a database access wrapper.
    
    Xyndravandria Erozaver
    http://github.com/MauroDiGirolamo/Xyndravandria_Erozaver

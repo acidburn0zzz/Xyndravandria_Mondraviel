@@ -24,7 +24,7 @@ All projects:
    <tr>
       <td>%Xyndravandria Dyverath<br>http://github.com/MauroDiGirolamo/Xyndravandria_Dyverath</td>
       <td>PHP</td>
-      <td>Dyverath is an database access wrapper.</td>
+      <td>Dyverath is a database access wrapper.</td>
    </tr>
    <tr>
       <td>%Xyndravandria Erozaver<br>http://github.com/MauroDiGirolamo/Xyndravandria_Erozaver</td>
